@@ -1,0 +1,418 @@
+{
+  "anos": [
+    {
+      "numero": 2,
+      "rotulo": "Sistemas de Informação · Integral",
+      "titulo": "Currículo de Sistemas de Informação",
+      "descricao": "Você entra nos projetos específicos do curso: como algoritmos de alta performance, sistemas distribuídos e blockchain.",
+      "projetos": [
+        {
+          "numero": 5,
+          "titulo": "Software descentralizado utilizando Blockchain",
+          "descricao": "Desenvolvimento de aplicações descentralizadas e seguras baseadas em tecnologias blockchain.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Fatoração de números primos",
+                "Funções de dispersão (Hash)",
+                "Técnicas de indução"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Blockchain",
+                "Criptografia",
+                "Smart Contracts",
+                "Protocolos de Consenso"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "User Research",
+                "UX Writing",
+                "Frontend",
+                "Teste de Usabilidade"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Criptoativos",
+                "Finanças Descentralizadas",
+                "Teoria Econômica",
+                "Macroeconomia"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Diversidade",
+                "Construção de valores",
+                "Embasamento em dados",
+                "Storytelling"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Aplicação baseada em Processamento em Linguagem Natural",
+          "descricao": "Desenvolvimento de algoritmos para análise de sentimentos em redes sociais utilizando PLN.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Probabilidade",
+                "Teorema de Bayes",
+                "Gradiente Descendente",
+                "Vetores e Matrizes"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Machine Learning",
+                "Análise de sentimentos",
+                "Classificação Semântica",
+                "Linguagem Python"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Visualização de Dados",
+                "Tensorboard",
+                "Gradio"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Marketing Digital",
+                "Gestão de Mídias Sociais",
+                "Gestão de Leads",
+                "CRM",
+                "2 Sided Market"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Ética",
+                "Conhecimento",
+                "Argumentação",
+                "Técnicas de negociação"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Sistemas de Gestão e Governança Empresarial",
+          "descricao": "Implantação de um sistema de gestão empresarial em um caso de negócios real.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Matemática Financeira",
+                "Redes de Petri",
+                "Pareto"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "ERP – Enterprise Resource Planning",
+                "Mapeamento e Mineração de Processos",
+                "Governança de Dados"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Design Organizacional",
+                "UX em ERPs",
+                "Design Systems"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Contabilidade Empresarial",
+                "Contabilidade de Custos",
+                "DRE",
+                "Balanço Patrimonial"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Experiência",
+                "Segurança psicológica",
+                "Cultura de feedback",
+                "Sustentabilidade"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Integração, Gerenciamento e Análise de Big Data",
+          "descricao": "Construção de um pipeline de dados para análises e tomada de decisão em ambientes de grande volume de dados.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Estatística Descritiva",
+                "Clustering",
+                "Teste de Hipótese",
+                "Gráficos Estatísticos"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Arquitetura de Dados",
+                "ETL",
+                "Data Warehouse",
+                "Data Lake",
+                "Gestão de Dados in Cloud"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "DataViz",
+                "Infográficos",
+                "Dashboards",
+                "Design Ético"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Inteligência de Mercado",
+                "Consumidor Digital",
+                "Inovação",
+                "Transformação Digital"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Leitura de contexto",
+                "Tomada de decisão",
+                "Teambuilding",
+                "Networking"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "rotulo": "Curso + estágio · Meio período",
+      "titulo": "Curso + estágio",
+      "descricao": "No terceiro ano, você segue com o currículo do curso e pode iniciar o estágio, com suporte do time de carreiras.",
+      "projetos": [
+        {
+          "numero": 9,
+          "titulo": "Relatórios e Painéis de Controle de Dados Gerenciais",
+          "descricao": "Construção de Dashboards gerenciais para tomada de decisão.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Séries Temporais",
+                "Modelos ARIMA",
+                "Previsão de Demanda"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "UML",
+                "Orientação a Objeto",
+                "MVC",
+                "Banco de Dados com APIs",
+                "Deploy em Nuvem"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Design Sprint",
+                "Wireframing",
+                "Análise Heurística",
+                "Iteração e Acessibilidade"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Recrutamento & Seleção",
+                "Gestão de Desempenho",
+                "Gestão de Carreira",
+                "Gestão da Mudança"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Discursos engajadores",
+                "Proatividade",
+                "Direitos Humanos",
+                "Parcerias"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Análise Comportamental de Usuários de Interfaces Digitais",
+          "descricao": "Desenvolvimento e implantação de testes A/B em sites com base em simulação de Monte Carlo.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Simulação de Monte Carlo",
+                "Redução de Variância",
+                "Análise de Sensibilidade"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Simulação",
+                "Variáveis Confundidoras",
+                "Randomização",
+                "Teste A/B"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Métodos Mistos",
+                "Framework HEART",
+                "Blueprint de Serviço",
+                "Redesign"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Plano de Negócios",
+                "Fusões & Aquisições",
+                "Estruturas Corporativas",
+                "Produtividade"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Táticas de influência",
+                "Decisões coletivas",
+                "Modelos mentais",
+                "Contexto ético"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Modelo Preditivo em aplicações de negócios utilizando Deep learning",
+          "descricao": "Desenvolvimento de aplicações baseadas em Aprendizado Profundo de máquina para detecção de fraudes.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Estrutura de Redes Neurais",
+                "Funções de Ativação",
+                "Algoritmo de Back Propagation"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Deep Learning",
+                "Redes Neurais",
+                "Overfitting",
+                "Deployment de Modelos",
+                "Cyber Segurança"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Anti Personas",
+                "Privacy by Design",
+                "Acessibilidade",
+                "Explicabilidade"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "ESG",
+                "Índice de Sustentabilidade Empresarial",
+                "IA e consumo de energia"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Impacto positivo",
+                "ESG",
+                "Cultura de feedback",
+                "Prototipagem de soluções"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Tendências e Atualizações",
+          "descricao": "Este módulo aborda as atualizações mais recentes e as tendências tecnológicas emergentes, conectando assuntos de ponta às aplicações da sua área.",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "rotulo": "Aceleração de carreira · Meio período",
+      "titulo": "Aceleração de carreira",
+      "descricao": "No quarto ano você escolhe em qual trilha quer focar sua carreira: empreendedora, acadêmica ou corporativa.",
+      "projetos": [],
+      "trilhas": [
+        {
+          "nome": "Trilha de Empreendedorismo",
+          "itens": [
+            "Criação e aceleração de startups",
+            "Imersões no ecossistema empreendedor",
+            "Conexão com mentores e investidores de venture capital"
+          ]
+        },
+        {
+          "nome": "Trilha Corporativa",
+          "itens": [
+            "Projetos de consultoria para corporações",
+            "Imersões empresariais",
+            "Preparação para processos seletivos e de trainee em grandes empresas"
+          ]
+        },
+        {
+          "nome": "Trilha Acadêmica",
+          "itens": [
+            "Construção de projetos de pesquisa",
+            "Elaboração de artigos científicos",
+            "Preparação para ingresso em cursos de mestrado e doutorado"
+          ]
+        }
+      ]
+    }
+  ]
+}

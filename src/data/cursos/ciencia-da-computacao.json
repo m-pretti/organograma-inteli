@@ -1,0 +1,406 @@
+{
+  "anos": [
+    {
+      "numero": 2,
+      "rotulo": "Ciência da Computação · Integral",
+      "titulo": "Currículo de Ciência da Computação",
+      "descricao": "Você entra nos projetos específicos do curso: como algoritmos de alta performance, sistemas distribuídos e blockchain.",
+      "projetos": [
+        {
+          "numero": 5,
+          "titulo": "Solução de alto desempenho usando grafos",
+          "descricao": "Solução que utiliza estruturas e técnicas em grafos para melhorar a tomada de decisões e otimização em cenários do mundo real.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Teoria dos Grafos",
+                "Redes de fluxo",
+                "Lógica formal",
+                "Demonstração de correção",
+                "Indução matemática"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Estrutura de dados",
+                "Tipos abstratos de dados",
+                "Algoritmos em grafos",
+                "Análise de algoritmos",
+                "Ordenação topológica",
+                "Caminhos mínimos",
+                "Árvore geradora mínima"
+              ]
+            },
+            {
+              "nome": "UX e IHC",
+              "assuntos": [
+                "Representação de dados",
+                "Animação e interatividade",
+                "Ferramentas para visualização de grafos",
+                "Testes de usabilidade"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Mercados e tendências em supply chain",
+                "Aplicações inovadoras em supply chain",
+                "Políticas econômicas",
+                "Produtos financeiros e mercado de capitais"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Construção de times colaborativos e diversos",
+                "Storytelling na liderança",
+                "Valores, fatos e opiniões"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Otimização combinatória e pesquisa operacional",
+          "descricao": "Aplicação de algoritmos de programação linear e inteira para resolver problemas de otimização em empresas a fim de maximizar lucros (ou reduzir custos) ou tornar ótimo o uso de recursos escassos.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Modelagem de problemas de otimização",
+                "Programação linear",
+                "Método simplex",
+                "Dualidade e análise de sensibilidade",
+                "Teoria das filas"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Algoritmos de programação linear e inteira e mista",
+                "Programação dinâmica",
+                "Busca local e Backtracking",
+                "Algoritmos gulosos",
+                "Scheduling, Routing, Decomposition Techniques",
+                "Teoria da computação"
+              ]
+            },
+            {
+              "nome": "UX e IHC",
+              "assuntos": [
+                "Representação geométrica e animação gráfica",
+                "Representação gráfica 3D"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Supply chain global, geopolítica e o Global Supply Chain Pressure Index",
+                "Satisfação, reputação e fidelidade",
+                "Gerenciamento de funil de leads"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Argumentação, falácias e correlações espúrias",
+                "Negociação: eu e o outro",
+                "Ética e gestão do conhecimento"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Aplicação escalável em sistemas distribuídos",
+          "descricao": "Sistema com alta escalabilidade, disponibilidade, distribuído e baseado em microsserviços para resolver problemas reais.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Métricas de escalabilidade",
+                "Métricas de confiabilidade"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Redes de computadores",
+                "Computação em nuvem",
+                "Infraestrutura como código",
+                "Desenvolvimento serverless",
+                "Engenharia de Requisitos",
+                "Arquitetura de Software",
+                "Modelagem de banco de dados"
+              ]
+            },
+            {
+              "nome": "UX e IHC",
+              "assuntos": [
+                "User Research",
+                "Arquitetura da informação: fundamentos e métodos",
+                "Arquitetura de Informação: do diagrama de contexto ao design de interface"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Proposta de valor do uso de plataformas em nuvem",
+                "Gestão de escalabilidade de negócios digitais",
+                "Contabilidade gerencial e de custos",
+                "Balanço patrimonial"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Segurança Psicológica",
+                "Feedback",
+                "Técnicas de Experimentação",
+                "Human-Centered Design como abordagem de gestão",
+                "Agenda 2030 e ODS"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "IDE para acessibilidade em dispositivos sensoriais",
+          "descricao": "IDE (Integrated Development Environment) cuja interface permite a programação de terapias ou atividades assistidas utilizando sensores apropriados.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Teoria dos números e aritmética modular",
+                "Secure Hash Algorithms (SHA)",
+                "Criptografia simétrica",
+                "Criptografia de chave pública e RSA"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Linguagens formais e autômatos",
+                "Compiladores",
+                "Máquina de Turing",
+                "Arquitetura de computadores",
+                "Sistemas operacionais"
+              ]
+            },
+            {
+              "nome": "UX e IHC",
+              "assuntos": [
+                "Ergonomia, acessibilidade e Design de Interação em IDE",
+                "IHC e Design Inclusivo em IDEs para embarcados",
+                "Integração de IDEs na Potencialização das AVDs"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Reflexões sobre o terceiro setor",
+                "Negócios sociais",
+                "Economia da inovação",
+                "Inovação radical e disruptiva",
+                "Transformação digital e inovação aberta"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Relações e hierarquias impactam a tomada de decisões?",
+                "Gestão do conhecimento",
+                "Networking: como criar redes de relacionamento profissional"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "rotulo": "Curso + estágio · Meio período",
+      "titulo": "Curso + estágio",
+      "descricao": "No terceiro ano, você segue com o currículo do curso e pode iniciar o estágio, com suporte do time de carreiras.",
+      "projetos": [
+        {
+          "numero": 9,
+          "titulo": "Sistema de deep learning aplicado à visão computacional",
+          "descricao": "Criação de modelos que utilizem Redes Neurais Convolucionais (CNNs) e Transfer Learning para resolver desafios em Visão Computacional a fim de aprimorar a precisão e a eficiência na análise de imagens.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Derivadas Parciais",
+                "Funções de várias variáveis",
+                "Gradiente descendente",
+                "Perceptron multicamadas",
+                "Regra da cadeia"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Processamento de Imagens",
+                "Redes Neurais Convolucionais (CNNs)",
+                "Detecção de objetos",
+                "Segmentação de imagens",
+                "Pose estimation",
+                "Transfer Learning",
+                "Data augmentation",
+                "Otimização e Regularização de Modelos"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Organizações Orientadas por Dados",
+                "Análise e Avaliação de Desempenho – Analytics",
+                "Desenvolvimento de Talentos",
+                "Gestão da Mudança",
+                "Direitos e Deveres Trabalhistas"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Discursos engajadores",
+                "Direitos Humanos e as relações organizacionais",
+                "Alinhamento Organizacional e entrega de valor"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Aplicação de redes neurais artificiais em aprendizado por reforço",
+          "descricao": "Desenvolvimento de agentes que otimizam ações sequenciais em ambientes incertos, com aprendizado por reforço para resolver problemas complexos de tomada de decisões.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Estatística Bayesiana",
+                "Estatística e Probabilidade",
+                "Otimização",
+                "Teoria da Informação"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Métodos de Monte Carlo",
+                "Processos de Decisão de Markov",
+                "Métodos de diferença temporal",
+                "Políticas e estratégias em aprendizado por reforço",
+                "Exploração e Explotação",
+                "Computação paralela",
+                "Programação em GPU"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Estratégias de Negócios com IA",
+                "Fusões e aquisições em tempos de IA",
+                "Estruturas corporativas e acordos de acionistas",
+                "Produtividade"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Técnicas de influência e argumentação",
+                "Ética organizacional e os limites das ações individuais",
+                "Influência e design de experiência"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Sistema de processamento de linguagem natural com IA generativa",
+          "descricao": "Solução em NLP e IA generativa para compreender, interpretar e gerar linguagem humana em aplicações organizacionais.",
+          "areas": [
+            {
+              "nome": "Matemática",
+              "assuntos": [
+                "Análise de Agrupamento: medidas de proximidade",
+                "Álgebra linear em word embeddings",
+                "Ganho de Informação e Entropia no contexto do aprendizado de máquina",
+                "Análise de Séries Temporais"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Redes Neurais Recorrentes (RNNs)",
+                "Large Language Models (LLMs)",
+                "Transfer learning",
+                "Computação paralela em cluster",
+                "Paradigmas e linguagens de programação"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Impacto de IA generativa nas empresas",
+                "Gestão ambiental",
+                "Sustentabilidade",
+                "Frameworks para implementação da estratégia de negócios"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "O impacto positivo que os líderes podem buscar",
+                "Desvendando o Poder do Hábito",
+                "Como líderes desenvolvem e monitoram experimentos"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Tendências e Atualizações",
+          "descricao": "Este módulo aborda as atualizações mais recentes e as tendências tecnológicas emergentes, conectando assuntos de ponta às aplicações da sua área.",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "rotulo": "Aceleração de carreira · Meio período",
+      "titulo": "Aceleração de carreira",
+      "descricao": "No quarto ano você escolhe em qual trilha quer focar sua carreira: empreendedora, acadêmica ou corporativa.",
+      "projetos": [],
+      "trilhas": [
+        {
+          "nome": "Trilha de Empreendedorismo",
+          "itens": [
+            "Criação e aceleração de startups",
+            "Imersões no ecossistema empreendedor",
+            "Conexão com mentores e investidores de venture capital"
+          ]
+        },
+        {
+          "nome": "Trilha Corporativa",
+          "itens": [
+            "Projetos de consultoria para corporações",
+            "Imersões empresariais",
+            "Preparação para processos seletivos e de trainee em grandes empresas"
+          ]
+        },
+        {
+          "nome": "Trilha Acadêmica",
+          "itens": [
+            "Construção de projetos de pesquisa",
+            "Elaboração de artigos científicos",
+            "Preparação para ingresso em cursos de mestrado e doutorado"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "numero": 1,
+  "rotulo": "Base comum · Integral",
+  "titulo": "Currículo comum a todos os cursos",
+  "descricao": "Você desenvolve projetos de tecnologia ao lado de alunos dos outros quatro cursos e entende cada curso por dentro antes de escolher.",
+  "projetos": [
+    {
+      "numero": 1,
+      "titulo": "Jogo Digital",
+      "descricao": "Um jogo digital com personagens, narrativa e mecânicas próprias, para ajudar instituições em seus treinamentos e ações educativas",
+      "areas": [
+        {
+          "nome": "Matemática",
+          "assuntos": [
+            "Funções",
+            "Limites",
+            "Derivadas",
+            "Vetores",
+            "Cinemática",
+            "Momento Linear e Colisões"
+          ]
+        },
+        {
+          "nome": "Computação",
+          "assuntos": [
+            "Introdução à Programação (Javascript)",
+            "Programação Orientada a Objetos",
+            "Máquinas de Estado",
+            "Qualidade de Software"
+          ]
+        },
+        {
+          "nome": "Design",
+          "assuntos": [
+            "Design Thinking",
+            "Game Design",
+            "Concept Art",
+            "Narrativas",
+            "Level Design",
+            "Sound Design"
+          ]
+        },
+        {
+          "nome": "Negócios",
+          "assuntos": [
+            "Mercado de Games",
+            "Análise SWOT",
+            "Canvas de Proposta de Valor",
+            "Análise de Riscos",
+            "Pitch e Pitch Deck"
+          ]
+        },
+        {
+          "nome": "Liderança",
+          "assuntos": [
+            "Representatividade e Diversidade",
+            "Objetivos Individuais e de Grupo",
+            "Apresentações em público"
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Aplicação Web",
+      "descricao": "Um sistema web com back-end e front-end, focado em cadastro e recuperação de dados, para diversas aplicações corporativas",
+      "areas": [
+        {
+          "nome": "Matemática",
+          "assuntos": [
+            "Integral Indefinida",
+            "Integral Definida",
+            "Integração Numérica",
+            "Lógica Proposicional",
+            "Grafos, Árvores",
+            "Estatística Descritiva"
+          ]
+        },
+        {
+          "nome": "Computação",
+          "assuntos": [
+            "Bancos de Dados",
+            "Padrão MVC",
+            "HTML, CSS, Javascript",
+            "Node.js",
+            "Testes Unitários",
+            "Fundamentos de Redes"
+          ]
+        },
+        {
+          "nome": "Design",
+          "assuntos": [
+            "Personas",
+            "Prototipação",
+            "Design de Interfaces",
+            "Usabilidade",
+            "Acessibilidade",
+            "Testes com Usuários"
+          ]
+        },
+        {
+          "nome": "Negócios",
+          "assuntos": [
+            "Ciclo de Vida do Produto",
+            "Design Thinking",
+            "4 P’s do Marketing",
+            "Branding",
+            "PMI, PMBok, Agile"
+          ]
+        },
+        {
+          "nome": "Liderança",
+          "assuntos": [
+            "Liderança em situações de conflito",
+            "Vieses Cognitivos",
+            "Empatia"
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Lógica para predição com Inteligência Artificial",
+      "descricao": "Uso de aprendizado de máquina sobre bases de dados para geração de modelos preditivos que auxiliam tomadas de decisão.",
+      "areas": [
+        {
+          "nome": "Matemática",
+          "assuntos": [
+            "Funções de várias variáveis",
+            "Derivadas Parciais",
+            "Integral Múltipla",
+            "Probabilidade",
+            "Estatística Indutiva",
+            "Transformações Lineares"
+          ]
+        },
+        {
+          "nome": "Computação",
+          "assuntos": [
+            "Linguagem Python, Pandas, Numpy",
+            "Pré-Processamento",
+            "Feature Engineering",
+            "Aprendizado Supervisionado e Não Supervisionado",
+            "Explicabilidade"
+          ]
+        },
+        {
+          "nome": "Design",
+          "assuntos": [
+            "Jornada do Usuário",
+            "Visualização de Dados",
+            "Storytelling com Dados"
+          ]
+        },
+        {
+          "nome": "Negócios",
+          "assuntos": [
+            "LGPD",
+            "Governança de Dados",
+            "Governança Corporativa",
+            "Cultura e Design Organizacional"
+          ]
+        },
+        {
+          "nome": "Liderança",
+          "assuntos": [
+            "Ética",
+            "Feedbacks",
+            "Vulnerabilidade"
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Solução para IoT",
+      "descricao": "Dispositivos com sensores e atuadores, que coletam dados e enviam para a nuvem, auxiliando monitoramentos e automatização.",
+      "areas": [
+        {
+          "nome": "Matemática",
+          "assuntos": [
+            "Campos vetoriais, Gradiente",
+            "Derivada Direcional",
+            "Séries de Potência",
+            "Campo Elétrico",
+            "Resistores / Capacitores",
+            "Eletromagnetismo"
+          ]
+        },
+        {
+          "nome": "Computação",
+          "assuntos": [
+            "Eletrônica Básica",
+            "Sensores e Atuadores",
+            "Microcontroladores",
+            "Comunicação à Distância",
+            "Dashboards",
+            "Segurança"
+          ]
+        },
+        {
+          "nome": "Design",
+          "assuntos": [
+            "Storyboard",
+            "Design de Interação",
+            "Interusabilidade",
+            "Fabricação Digital"
+          ]
+        },
+        {
+          "nome": "Negócios",
+          "assuntos": [
+            "Indústria 4.0",
+            "KPIs",
+            "Juros e Fluxo de Caixa",
+            "Indicadores financeiros",
+            "Ciclo de funding de startups"
+          ]
+        },
+        {
+          "nome": "Liderança",
+          "assuntos": [
+            "Impactos Ambientais das Tecnologias",
+            "Técnicas de Feedback",
+            "Segurança Psicológica"
+          ]
+        }
+      ]
+    }
+  ]
+}

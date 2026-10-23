@@ -1,0 +1,440 @@
+{
+  "anos": [
+    {
+      "numero": 2,
+      "rotulo": "Administração de Empresas · Integral",
+      "titulo": "Currículo de Administração de Empresas",
+      "descricao": "Você entra nos projetos específicos do curso: como algoritmos de alta performance, sistemas distribuídos e blockchain.",
+      "projetos": [
+        {
+          "numero": 5,
+          "titulo": "Modelagem financeira e valuation",
+          "descricao": "Modelagem financeira de uma empresa ou projeto e uma avaliação de seu valor de mercado (valuation)",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Matemática financeira",
+                "Simulação de Monte Carlo"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Cálculo financeiro",
+                "Planilhas eletrônicas avançadas"
+              ]
+            },
+            {
+              "nome": "Design",
+              "assuntos": [
+                "Apresentação de dados financeiros"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Fluxo de caixa",
+                "Contabilidade",
+                "Análise de DRE",
+                "Valuation: FDC, múltiplos"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Construção de times colaborativos e diversos",
+                "Storytelling na liderança",
+                "Valores, fatos e opiniões"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Sistemas de Business Intelligence para tomada de decisão",
+          "descricao": "Coleta, análise, processamento e visualização de dados para orientar a tomada de decisões nas organizações.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Estatística e probabilidades",
+                "Análises de séries temporais"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Construção de dashboards",
+                "Integrações via API",
+                "SQL",
+                "Python",
+                "Data Warehousing",
+                "ETL",
+                "Machine learning"
+              ]
+            },
+            {
+              "nome": "Design",
+              "assuntos": [
+                "Visualização de dados",
+                "Desenho de dashboards"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Problem framing",
+                "Análise, visualização e Governança de dados",
+                "Processos de tomada de decisão"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Argumentação, falácias e correlações espúrias",
+                "Negociação: eu e o outro",
+                "Ética e gestão do conhecimento"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Blockchain, criptomoedas e tokenização de ativos",
+          "descricao": "Criação de um projeto de tokenização de ativos utilizando tecnologia blockchain.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Teoria dos Números",
+                "Criptografia",
+                "Lógica"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Algoritmos criptográficos",
+                "Estruturas de dados e funções hash",
+                "Programação em blockchain",
+                "Smart Contracts"
+              ]
+            },
+            {
+              "nome": "Design",
+              "assuntos": [
+                "Design de interfaces para transações financeiras",
+                "UX aplicada a smart contracts"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Macroeconomia",
+                "Microeconomia",
+                "Análise de volatilidade",
+                "Regulação de criptomoedas e tokens",
+                "Tokenomics: Modelagem de negócios em blockchain"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Relações e hierarquias impactam a tomada de decisões?",
+                "Gestão do conhecimento",
+                "Networking: como criar redes de relacionamento profissional"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Imersão no mercado financeiro",
+          "descricao": "Análise de dados econômicos e financeiros para avaliação de desempenho de portfólio de investimentos e gestão de ativos.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Matemática financeira avançada",
+                "Teoria dos Jogos"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Python e bibliotecas de análise de dados",
+                "Análise estatística computacional com R",
+                "Integrações via API"
+              ]
+            },
+            {
+              "nome": "Design",
+              "assuntos": [
+                "Design de serviços"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Sistema financeiro nacional",
+                "Investment banking",
+                "Private equity",
+                "Wealth Management",
+                "Real Estate",
+                "Seguros e resseguros"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Segurança Psicológica",
+                "Feedback",
+                "Técnicas de Experimentação",
+                "Human-Centered Design como abordagem de gestão",
+                "Agenda 2030 e ODS"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "rotulo": "Curso + estágio · Meio período",
+      "titulo": "Curso + estágio",
+      "descricao": "No terceiro ano, você segue com o currículo do curso e pode iniciar o estágio, com suporte do time de carreiras.",
+      "projetos": [
+        {
+          "numero": 9,
+          "titulo": "Estratégias e soluções de growth marketing",
+          "descricao": "Construção de soluções de marketing digital para gerar crescimento de vendas.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Estatística aplicada a Pesquisa de Mercado",
+                "Técnicas de coleta de dados",
+                "Estatística Descritiva"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Ferramentas de marketing online",
+                "Integração de APIs"
+              ]
+            },
+            {
+              "nome": "UX e Design",
+              "assuntos": [
+                "Pesquisa de usuário",
+                "Métodos de pesquisa de mercado",
+                "Branding e identidade visual",
+                "UX writing"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Teorias de Marketing",
+                "4Ps, H2H",
+                "Segmentação, targeting e posicionamento",
+                "Marketing digital",
+                "Inbound, outbound, SEO",
+                "Métricas de desempenho"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Discursos engajadores",
+                "Proatividade",
+                "Direitos Humanos",
+                "Parcerias"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Automação e robotização de processos de negócios",
+          "descricao": "Automatização e robotização de processos empresariais através do mapeamento, análise e aplicação de tecnologias de automação.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Controle estatístico de processos",
+                "Análise multivariada (PCA e Cluster)"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Programação em Python",
+                "Integrações avançadas via APIs",
+                "Desenvolvimento de sistemas de RPA",
+                "Inteligência Artificial",
+                "Ferramentas online de BPM"
+              ]
+            },
+            {
+              "nome": "UX e Design",
+              "assuntos": [
+                "Pesquisa de Usuário",
+                "Design de interação"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Gestão de processos",
+                "Alinhamento estratégico",
+                "Inovação e competitividade",
+                "Mapeamento de processos (BPMN)",
+                "Ferramentas de automação",
+                "Análise de desempenho e KPIs"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Táticas de influência",
+                "Decisões coletivas",
+                "Modelos mentais",
+                "Contexto ético"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "People analytics e eficiência de gestão",
+          "descricao": "Soluções para gestão de pessoas através de coleta, processamento, visualização e análise de dados.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Estatística"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Sistemas ERP",
+                "Processos de ETL",
+                "Sistemas de RH e gestão de pessoas",
+                "Construção de dashboards avançados"
+              ]
+            },
+            {
+              "nome": "UX e Design",
+              "assuntos": [
+                "Pesquisa com usuários de RH",
+                "Mapeamento de jornada do usuário",
+                "Design de experiência do colaborador"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Gestão de pessoas",
+                "Funções do RH",
+                "Gestão de Desempenho",
+                "Gestão de remuneração e benefícios",
+                "Engajamento e satisfação dos colaboradores",
+                "Diversidade e inclusão"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Impacto positivo",
+                "ESG",
+                "Cultura de feedback",
+                "Prototipagem de soluções"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Empreendedorismo: construa sua startup",
+          "descricao": "Construção de um pitch deck para uma startup a partir de sua validação no mercado.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Matemática financeira"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Programação para aplicações",
+                "Desenvolvimento full-stack",
+                "Gestão de desempenho e infraestrutura em nuvem"
+              ]
+            },
+            {
+              "nome": "UX e Design",
+              "assuntos": [
+                "Design de MVPs"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Problem framing",
+                "Validação de hipóteses de negócio para startups",
+                "Validação de MVP",
+                "Venture Capital e levantamento de capital para startups",
+                "Métricas para startups"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Liderança empreendedora",
+                "Gestão de pessoas e times"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "rotulo": "Aceleração de carreira · Meio período",
+      "titulo": "Aceleração de carreira",
+      "descricao": "No quarto ano você escolhe em qual trilha quer focar sua carreira: empreendedora, acadêmica ou corporativa.",
+      "projetos": [],
+      "trilhas": [
+        {
+          "nome": "Trilha de Empreendedorismo",
+          "itens": [
+            "Criação e aceleração de startups",
+            "Imersões no ecossistema empreendedor",
+            "Conexão com mentores e investidores de venture capital"
+          ]
+        },
+        {
+          "nome": "Trilha Corporativa",
+          "itens": [
+            "Projetos de consultoria para corporações",
+            "Imersões empresariais",
+            "Preparação para processos seletivos e de trainee em grandes empresas"
+          ]
+        },
+        {
+          "nome": "Trilha Acadêmica",
+          "itens": [
+            "Construção de projetos de pesquisa",
+            "Elaboração de artigos científicos",
+            "Preparação para ingresso em cursos de mestrado e doutorado"
+          ]
+        }
+      ]
+    }
+  ]
+}

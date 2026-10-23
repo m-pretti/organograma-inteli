@@ -1,0 +1,47 @@
+/* Tokens extraídos do kit do site do Inteli (Elementor) */
+:root {
+  /* roxos */
+  --roxo-900: #2e2640; /* primária */
+  --roxo-950: #201a2c; /* secundária */
+  --roxo-secao: #2f2640; /* seção escura */
+  --destaque: #855ede; /* accent */
+  --destaque-claro: #c39eff;
+  --destaque-medio: #5c3da9;
+  --destaque-profundo: #402a78;
+
+  /* texto */
+  --titulo: #2a233a;
+  --texto: #3c3649;
+  --texto-suave: #635a76;
+  --rotulo: #8d8d8d;
+  --rotulo-claro: #b2b6bf;
+
+  /* superfícies */
+  --branco: #ffffff;
+  --fundo-claro: #f4f4f4;
+  --fundo-frio: #e6eaeb;
+  --borda: #cacdd6;
+
+  /* apoio */
+  --verde: #89cea5;
+  --laranja: #ffbc7d;
+  --azul: #233b8f;
+  --erro: #ff4545;
+
+  /* tipografia */
+  --fonte-titulo: 'Platypi', Georgia, serif;
+  --fonte-texto: 'Manrope Variable', 'Manrope', system-ui, sans-serif;
+
+  /* layout */
+  --largura-max: 1340px;
+  --gutter: 32px;
+  --secao-y: 100px;
+  --circulo: clamp(190px, 17.5vw, 240px);
+}
+
+@media (max-width: 767px) {
+  :root {
+    --gutter: 16px;
+    --secao-y: 56px;
+  }
+}

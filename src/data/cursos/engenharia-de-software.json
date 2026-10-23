@@ -1,0 +1,453 @@
+{
+  "anos": [
+    {
+      "numero": 2,
+      "rotulo": "Engenharia de Software · Integral",
+      "titulo": "Currículo de Engenharia de Software",
+      "descricao": "Você entra nos projetos específicos do curso: como algoritmos de alta performance, sistemas distribuídos e blockchain.",
+      "projetos": [
+        {
+          "numero": 5,
+          "titulo": "Sistema digital de processamento distribuído",
+          "descricao": "Análise e projeto de software para resolver problemas complexos utilizando arquitetura de sistemas em nuvem com foco na eficiência operacional e na confiabilidade, empregando testes de usuários e bancos de dados relacionais, dentro de um contexto digital global e interconectado.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Cálculo diferencial e integral",
+                "Derivação e suas aplicações",
+                "Funções de uma variável",
+                "Funções de várias variáveis"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Arquitetura de dados em nuvem",
+                "Análise de complexidade de algoritmos",
+                "Banco de dados",
+                "Arquitetura da informação"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Design System",
+                "IHC",
+                "User experience",
+                "Usabilidade",
+                "Prototipação"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Estratégia e inovação",
+                "Gerenciamento financeiro",
+                "Papel das atividades econômicas na tecnologia em nuvem",
+                "Estratégia e gestão de serviços de TI",
+                "Produtividade"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Valores, fatos e opiniões",
+                "Construção de times colaborativos e diversos",
+                "Storytelling na liderança"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Plataforma digital baseada em arquitetura orientada a serviços",
+          "descricao": "Desenvolvimento de soluções utilizando programação orientada a objetos e desenvolvimento dirigido por testes, fundamentados em padrões de design e qualidade de código, para explorar o universo de sistemas de recomendação para dispositivos móveis.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Autovalores e autovetores",
+                "Álgebra vetorial euclidiana",
+                "Sistemas lineares",
+                "Retas e planos",
+                "Algoritmo de k-means",
+                "Estatística e probabilidade"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Projeto e arquitetura de sistemas",
+                "Engenharia de requisitos",
+                "Arquitetura Web",
+                "Estrutura de dados",
+                "Arquitetura de sistemas distribuídos"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Design thinking",
+                "Prototipação",
+                "Ubiquidade, acessibilidade, experiência do usuário e conectividade"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Gestão de processos de negócios",
+                "Gerenciamento de funil de leads",
+                "Relacionamento com clientes e CRM",
+                "Marketplace",
+                "Two sided market"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Argumentação, falácias e correlações espúrias",
+                "Negociação: eu e o outro",
+                "Ética e gestão do conhecimento"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Processamento de linguagens naturais em texto, vídeo e áudio",
+          "descricao": "Análise de requisitos funcionais e não funcionais com foco na arquitetura de soluções que dão ênfase ao reuso de componentes abertos e proprietários para desenvolver e integrar aplicações que trabalham com reconhecimento de áudio, análise de sentimentos e processamento de linguagem natural, focando também na usabilidade e em novas formas de interação humano-computador",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Álgebra linear",
+                "Geometria analítica",
+                "Espaços vetoriais",
+                "Teoria de Grafos",
+                "Linguagens formais"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Modelagem de Sistemas",
+                "Test-Driven Development",
+                "Arquitetura orientada a serviços",
+                "Design Patterns",
+                "Processamento de Linguagem Natural",
+                "Aprendizado de máquina"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Interface humano-computador",
+                "Modelagem de sistemas dinâmicos"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Gestão de Processos de negócios",
+                "Modelos de negociação",
+                "Gerenciamento Financeiro",
+                "Estratégia e Inovação",
+                "Análises de cenário"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Teorias de Liderança",
+                "Teorias de Poder",
+                "Aprendizagem pessoal e organizacional"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Arquitetura digital segura e tolerante a falhas",
+          "descricao": "Análise, projeto e simulação de arquiteturas de software aderentes a estruturas de organização, comportamento e interação de componentes de um sistema, abordando os principais aspectos como partes, responsabilidades e interfaces, além de considerar a escalabilidade, manutenibilidade, segurança e desempenho, com ênfase nas decisões de design que orientam a construção de sistemas.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Arquitetura da Informação",
+                "Segurança e auditoria de sistemas",
+                "Comunicação e sincronização de processos",
+                "Programação funcional",
+                "Estruturas de dados",
+                "Análise de complexidade de algoritmos de ordenação"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Algoritmos em grafos",
+                "Recomendação de séries temporais"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Modelos e Protótipos de Design",
+                "Organização da Informação, Storytelling de dados tabelados"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Gestão de Pessoas",
+                "Governança Corporativa",
+                "Gestão de Conhecimento",
+                "Sistemas de gestão empresarial"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Mudança organizacional",
+                "Inteligência artificial e sociedade",
+                "Adaptabilidade e vulnerabilidades",
+                "Relações étnico-raciais"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "rotulo": "Curso + estágio · Meio período",
+      "titulo": "Curso + estágio",
+      "descricao": "No terceiro ano, você segue com o currículo do curso e pode iniciar o estágio, com suporte do time de carreiras.",
+      "projetos": [
+        {
+          "numero": 9,
+          "titulo": "Sistema digital resiliente com qualidade como ativo de software",
+          "descricao": "Uso de métodos e técnicas para o projeto e construção de testes automatizados, essenciais para o controle de qualidade de software e a detecção rápida de erros e falhas, visando garantir o comportamento esperado do sistema em simulações para diversos cenários.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Conceito e distribuição de probabilidade",
+                "Análise de variância",
+                "Estatística descritiva",
+                "Estimação pontual e intervalar",
+                "Teoremas fundamentais",
+                "Otimização discreta e em grafos",
+                "Distribuição de probabilidade",
+                "Pesquisa operacional",
+                "Variáveis aleatórias"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Testes automatizados",
+                "Qualidade de software",
+                "Análise de sistemas de software e de complexidade de algoritmos",
+                "Tolerância a falhas",
+                "Gestão de configuração",
+                "Engenharia de requisitos"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Fundamentos avançados de UX",
+                "Design Sprint",
+                "Framework PACT",
+                "Design e avaliação de IHC"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Análise de cenário para uso de SLA composto",
+                "OKR",
+                "Gestão de carreira (treinamento e desenvolvimento de habilidades)",
+                "Recrutamento e seleção de talentos",
+                "Direitos e deveres trabalhistas"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Discursos engajadores",
+                "Direitos Humanos e as relações organizacionais",
+                "Alinhamento Organizacional e entrega de valor"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Esteira ágil de produção de software",
+          "descricao": "Aplicação de técnicas de DevOps e táticas de engenharia de software relacionados à governança de TI com o objetivo de assegurar a qualidade do processo de desenvolvimento de software e a entrega contínua de valor ao negócio.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Conexidade",
+                "Grafos eulerianos",
+                "Grafos hamiltonianos",
+                "Isomorfismo",
+                "Árvores, caminhos e ciclos",
+                "Coloração de grafos",
+                "Emparelhamento de grafos"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Rastreabilidade de requisitos",
+                "Gestão de mudanças",
+                "Métricas de software",
+                "Esteiras de integração contínua",
+                "ISO 27001",
+                "Cobit, Itil",
+                "Twelve factors",
+                "Clean code",
+                "Abordagens de testes de software",
+                "Testes de interface por robô"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "DesignOps",
+                "Service Blueprint",
+                "Integração do DesignOps no CD",
+                "DesignOps with REACH",
+                "Design de interação"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Sistemas de gestão empresarial",
+                "Cultura Lean Six Sigma",
+                "Estruturas corporativas e acordos de acionistas",
+                "Impostos e planejamento tributário",
+                "Produtividade"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Sistemas de gestão empresarial",
+                "Cultura Lean Six Sigma",
+                "Estruturas corporativas e acordos de acionistas",
+                "Impostos e planejamento tributário",
+                "Produtividade"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Arquitetura e governança de dados alinhada à estratégia corporativa",
+          "descricao": "Aplicação de mecanismos e ferramentas de estruturação e análise e governança de dados, possibilitando a identificação de oportunidades de negócios, a otimização de processos e a conformidade regulatória, permitindo que as organizações obtenham insights confiáveis e tomem decisões informadas com base nos dados disponíveis.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Álgebra relacional",
+                "Conceitos estatísticos",
+                "Técnicas de otimização"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Design Patterns",
+                "Arquitetura e governança de dados",
+                "Arquitetura TCP/IP",
+                "Gerenciamento e segurança de redes",
+                "Segurança e governança de dados",
+                "Microserviços",
+                "ETL, Data lake e DW",
+                "Algoritmos de busca",
+                "Processamento em larga escala",
+                "MLOps",
+                "Predição em produção",
+                "Padrões arquiteturais MVC, MVP e MVVM",
+                "Sistemas de apoio à decisão"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Entropia e informação",
+                "Visualização da informação",
+                "Dashboards de governança de dados",
+                "Testes com usuários em Dashboards"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Arquitetura de negócio",
+                "Precificação em nuvem",
+                "Auditoria de dados",
+                "Sustentabilidade e gestão ambiental",
+                "ESG",
+                "Frameworks para implementação da estratégia"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "O impacto positivo que os líderes podem buscar",
+                "Desvendando o Poder do Hábito",
+                "Como líderes desenvolvem e monitoram experimentos"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Tendências e Atualizações",
+          "descricao": "Este módulo aborda as atualizações mais recentes e as tendências tecnológicas emergentes, conectando assuntos de ponta às aplicações da sua área.",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "rotulo": "Aceleração de carreira · Meio período",
+      "titulo": "Aceleração de carreira",
+      "descricao": "No quarto ano você escolhe em qual trilha quer focar sua carreira: empreendedora, acadêmica ou corporativa.",
+      "projetos": [],
+      "trilhas": [
+        {
+          "nome": "Trilha de Empreendedorismo",
+          "itens": [
+            "Criação e aceleração de startups",
+            "Imersões no ecossistema empreendedor",
+            "Conexão com mentores e investidores de venture capital"
+          ]
+        },
+        {
+          "nome": "Trilha Corporativa",
+          "itens": [
+            "Projetos de consultoria para corporações",
+            "Imersões empresariais",
+            "Preparação para processos seletivos e de trainee em grandes empresas"
+          ]
+        },
+        {
+          "nome": "Trilha Acadêmica",
+          "itens": [
+            "Construção de projetos de pesquisa",
+            "Elaboração de artigos científicos",
+            "Preparação para ingresso em cursos de mestrado e doutorado"
+          ]
+        }
+      ]
+    }
+  ]
+}

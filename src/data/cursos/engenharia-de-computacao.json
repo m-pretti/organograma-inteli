@@ -1,0 +1,404 @@
+{
+  "anos": [
+    {
+      "numero": 2,
+      "rotulo": "Engenharia de Computação · Integral",
+      "titulo": "Currículo de Engenharia de Computação",
+      "descricao": "Você entra nos projetos específicos do curso: como algoritmos de alta performance, sistemas distribuídos e blockchain.",
+      "projetos": [
+        {
+          "numero": 5,
+          "titulo": "Automação de processos e sistemas",
+          "descricao": "Desenvolvimento de um sistema de automação, abordando eletrônica analógica e digital, tecnologias embarcadas e robótica, integrando sensoriamento e instrumentação.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Cinemática rotacional",
+                "Dinâmica rotacional",
+                "Equações diferenciais de primeira e segunda ordem",
+                "Problemas de valor inicial para EDOs lineares de primeira e segunda ordem"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Integração TI – Tecnologia da Informação e TA – Tecnologia da Automação",
+                "Eletrônica analógica e digital",
+                "Robótica",
+                "Automação"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "UX research",
+                "Mapas de fluxo",
+                "Identidade visual",
+                "Testes de usuários e de usabilidade"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Mercado de automação",
+                "Políticas monetárias e econômicas",
+                "Indicadores de inflação e atividade econômica",
+                "Produtos financeiros e mercados de capitais"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Diversidade",
+                "Construção de valores",
+                "Embasamento em dados",
+                "Storytelling"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Robótica móvel e visão computacional",
+          "descricao": "Desenvolvimento de um sistema integrando robôs móveis e visão computacional, aplicando simulação de sistemas eletromecânicos, controle e redes neurais.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Transformada de Laplace",
+                "Função degrau unitário",
+                "Função impulso unitário",
+                "Convolução de funções"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Redes neurais convolucionais",
+                "Visão computacional",
+                "Estrutura de dados",
+                "Sistema operacional robótico"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "UML",
+                "Framework PACT",
+                "Aspectos socioculturais e vieses ferramentais",
+                "Linguagem compartilhada"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Mercados de AVGs",
+                "Satisfação, reputação e fidelidade",
+                "Gerenciamento de funil de leads",
+                "Modelos de mercado"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Ética",
+                "Conhecimento",
+                "Argumentação",
+                "Técnicas de negociação."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Sistema de manutenção preditiva com IA e arquitetura em nuvem",
+          "descricao": "Desenvolvimento de sistemas de manutenção preditiva utilizando inteligência artificial e arquitetura em nuvem, com foco em análise de dados e machine learning.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Séries temporais",
+                "Estatística descritiva",
+                "Estatística inferencial",
+                "Distribuições discreta e contínuas de probabilidade"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Redes neurais recorrentes",
+                "Machine learning",
+                "Arquitetura de soluções de IA",
+                "Cloud computing"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Design e consumo",
+                "Economia circular",
+                "Visualização e storytelling",
+                "Pesquisa qualitativa"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Custo-benefício e impacto da manutenção preditiva",
+                "Balanço patrimonial",
+                "Rentabilidade, ROI e EBITDA",
+                "Contabilidade de custos"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Experiência",
+                "Segurança psicológica",
+                "Cultura de feedback",
+                "Sustentabilidade"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Robô de serviço autônomo com IA generativa",
+          "descricao": "Desenvolvimento de um robô de serviço autônomo utilizando IA generativa, com foco em interação homem-máquina, automação de tarefas e navegação autônoma.",
+          "areas": [
+            {
+              "nome": "Matemática / Física",
+              "assuntos": [
+                "Mudança de base em um espaço vetorial",
+                "Números complexos",
+                "Cálculo com variáveis complexas",
+                "Quatérnions"
+              ]
+            },
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "IA generativa",
+                "Processamento de linguagem natural",
+                "Algoritmos de mapeamento",
+                "Navegação autônoma"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Prototipação",
+                "Acessibilidade e usabilidade",
+                "Design de produto",
+                "Análise heurística e testes de campo"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Mercado de robôs autônomos",
+                "Economia da inovação",
+                "Transformação digital e inovação aberta"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Leitura de contexto",
+                "Tomada de decisão",
+                "Teambuilding",
+                "Networking"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "rotulo": "Curso + estágio · Meio período",
+      "titulo": "Curso + estágio",
+      "descricao": "No terceiro ano, você segue com o currículo do curso e pode iniciar o estágio, com suporte do time de carreiras.",
+      "projetos": [
+        {
+          "numero": 9,
+          "titulo": "Hiperconectividade para Cidades Inteligentes",
+          "descricao": "Desenvolvimento de sistemas avançados para cidades inteligentes, focando em modelos de comunicação em redes, segurança da informação e BI (Business Intelligence).",
+          "areas": [
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Redes",
+                "MQTT",
+                "Bancos de dados",
+                "Segurança",
+                "Qualidade de serviço",
+                "Visualiação de dados"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Urbanismo centrado no usuário",
+                "A transformação do espaço urbano pela tecnologia",
+                "Interface de dados e dashboard",
+                "Usabilidade e acessibilidade",
+                "Hiperconectividade e experiência do usuário"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "IoT e o futuro das cidades inteligentes",
+                "Desenvolvimento de talentos",
+                "Gestão da mudança",
+                "Direitos e deveres trabalhistas"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Discursos engajadores",
+                "Proatividade",
+                "Direitos Humanos",
+                "Parcerias"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Aplicações Hiperescaláveis",
+          "descricao": "Desenvolvimento de aplicativos móveis e plataforma de suporte que lida com grandes demandas de acesso, medindo seu desempenho por meio de ferramentas de teste de carga e implementando observabilidade.",
+          "areas": [
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Serviços escaláveis",
+                "Aplicativos híbridos",
+                "Teste de carga",
+                "Monitoramento",
+                "Arquitetura de soluções móveis",
+                "Padrões de projeto"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Prototipação mobile",
+                "Material design",
+                "Design system",
+                "Avaliação heurística e testes de usabilidade",
+                "Human Interface Guidelines"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Plano de negócios e negócios escaláveis",
+                "Estruturas corporativas e acordos de acionistas",
+                "Impostos e planejamento tributário",
+                "Produtividade"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Táticas de influência",
+                "Decisões coletivas",
+                "Modelos mentais",
+                "Contexto ético"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Sistema em edge computing",
+          "descricao": "Desenvolvimento de sistemas de inteligência artificial com processamento na borda (edge computing), reduzindo drasticamente a latência, aumentando a confiabilidade e otimizando o uso de recursos de nuvem.",
+          "areas": [
+            {
+              "nome": "Computação",
+              "assuntos": [
+                "Edge computing",
+                "Processamento distribuído",
+                "Sistemas operacionais",
+                "Concorrência e paralelismo",
+                "Programação baixo nível",
+                "Visão computacional embarcada"
+              ]
+            },
+            {
+              "nome": "UX",
+              "assuntos": [
+                "Conhecimento do usuário",
+                "Dashboard de monitoramento",
+                "Condições de implementação",
+                "Modelos para testes e definição de testes",
+                "Aplicações, registros e tabulações de testes"
+              ]
+            },
+            {
+              "nome": "Negócios",
+              "assuntos": [
+                "Poluição e ecotoxicologia",
+                "Gestão ambiental",
+                "Sustentabilidade",
+                "Frameworks para implementação da estratégia"
+              ]
+            },
+            {
+              "nome": "Liderança",
+              "assuntos": [
+                "Impacto positivo",
+                "ESG",
+                "Cultura de feedback",
+                "Prototipagem de soluções"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Tendências e Atualizações",
+          "descricao": "Este módulo aborda as atualizações mais recentes e as tendências tecnológicas emergentes, conectando assuntos de ponta às aplicações da sua área.",
+          "areas": []
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "rotulo": "Aceleração de carreira · Meio período",
+      "titulo": "Aceleração de carreira",
+      "descricao": "No quarto ano você escolhe em qual trilha quer focar sua carreira: empreendedora, acadêmica ou corporativa.",
+      "projetos": [],
+      "trilhas": [
+        {
+          "nome": "Trilha de Empreendedorismo",
+          "itens": [
+            "Criação e aceleração de startups",
+            "Imersões no ecossistema empreendedor",
+            "Conexão com mentores e investidores de venture capital"
+          ]
+        },
+        {
+          "nome": "Trilha Corporativa",
+          "itens": [
+            "Projetos de consultoria para corporações",
+            "Imersões empresariais",
+            "Preparação para processos seletivos e de trainee em grandes empresas"
+          ]
+        },
+        {
+          "nome": "Trilha Acadêmica",
+          "itens": [
+            "Construção de projetos de pesquisa",
+            "Elaboração de artigos científicos",
+            "Preparação para ingresso em cursos de mestrado e doutorado"
+          ]
+        }
+      ]
+    }
+  ]
+}
